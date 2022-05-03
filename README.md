@@ -1,20 +1,21 @@
 # Projeto JavaFX com JDBC
 
 ### 🔧 Instalação
-Depois de ter clonado ou baixado o arquivo:
 
-```
-Abra o arquivo na sua IDE de preferência ->
-Altere as configurações do arquivo db.properties para um banco de dados da sua máquina ->
-Execute o programa
-```
+1. Abra o arquivo na sua IDE de preferência
+2. Altere as configurações do arquivo db.properties para um banco de dados da sua máquina
+3. Execute o programa
+4. O resultado esperado será esse, conforme a imagem exibe abaixo:
+
+++imagem 
+
 ## :hammer_and_wrench: Construído com
 
-* [Eclipse](https://www.eclipse.org/downloads/) - IDE usada.
-* [Git](https://github.com/) - Controle de versão.
-* [Java](https://rometools.github.io/rome/) - Liguagem de desenvolvimento
-* [Scene Builder](https://gluonhq.com/products/scene-builder/) - Ferramenta para criação de telas
-* [MySQL](https://dev.mysql.com/downloads/workbench/) - Banco de dados utilizado
+* [Eclipse] - IDE usada.
+* [Git] - Controle de versão.
+* [Java] - Liguagem de desenvolvimento
+* [JavaFX] - Ferramenta para criação de telas
+* [MySQL] - Banco de dados utilizado
 
 
 
